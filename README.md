@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" alt="Paul Hervé — Full-Stack Web Developer" width="100%"/>
+<img src="banner.png" alt="Paul Hervé — Full-Stack Developer" width="100%"/>
 
 <br/><br/>
 
@@ -17,11 +17,11 @@
 
 ![About Me](https://img.shields.io/badge/-ABOUT_ME-D4AF37?style=for-the-badge&labelColor=000000)
 
-Hello World! I'm **Paul Hervé** — a Full-Stack Web Developer who enjoys turning real problems into clean, working software.
+Hello World! I'm **Paul Hervé** — a Full-Stack Developer who enjoys turning real problems into clean, working software.
 
 - 🎓 **Bachelor's Degree in Software Engineering** — The ICT University *(2025)*
-- 💻 Building web applications professionally since **2022**
-- 🏛️ Designed and built the software architecture for the **Service in Charge of Relations with the Assemblies (SCRA)**, Republic of Cameroon — my first real-world engineering solution, live at [scra-cameroun.online](https://www.scra-cameroun.online/)
+- 💻 Building web applications since **2022**
+- 🏛️ Designed and built the software architecture for the **Services in Charge of Relations with the Assemblies (SCRA)**, Republic of Cameroon — my first real-world engineering solution, live at [scra-cameroun.online](https://www.scra-cameroun.online/)
 - 🚧 Currently refining my personal [portfolio](https://paulherveph.vercel.app/)
 - 🌱 Always exploring new tools across the full stack — from databases to deployment
 - 📫 Let's connect — links below
@@ -73,7 +73,7 @@ Hello World! I'm **Paul Hervé** — a Full-Stack Web Developer who enjoys turni
 
 ### SCRA IS
 
-A digital platform built for the **Service in Charge of Relations with the Assemblies (SCRA)**, Republic of Cameroon, to modernize and automate the tracking of the Cameroonian legislative process, parliamentary activity, and the work of the Economic and Social Council (CES).
+A digital platform built for the **Services in Charge of Relations with the Assemblies (SCRA)** at the Republic of Cameroon, to modernize and automate the tracking of the Cameroonian legislative process, parliamentary activity, and the work of the Economic and Social Council (CES).
 
 It replaces a manual, error-prone system — one made more complex by a bicameral parliament and the CES — with a structured, reliable digital workflow. This was my first real-world software architecture solution, from design through implementation.
 
