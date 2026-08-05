@@ -135,6 +135,7 @@ It replaces a manual, error-prone system — one made more complex by a bicamera
 <a href="https://www.linkedin.com/in/paul-herv%C3%A9-tatieze" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-D4AF37?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
 <a href="https://x.com/your-x-handle" target="_blank"><img src="https://img.shields.io/badge/X-D4AF37?style=for-the-badge&logo=x&logoColor=black"/></a>
 <a href="https://www.instagram.com/paulherveph?igsh=NXUzazB3MzR1anBp" target="_blank"><img src="https://img.shields.io/badge/Instagram-D4AF37?style=for-the-badge&logo=instagram&logoColor=black"/></a>
+<a href="https://www.youtube.com/@paulherveph" target="_blank"><img src="https://img.shields.io/badge/YouTube-D4AF37?style=for-the-badge&logo=youtube&logoColor=black"/></a>
 </p>
 
 
