@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Paul+Herv%C3%A9+%F0%9F%91%8B;Full-Stack+Web+Developer;Software+Engineer+%40+The+ICT+University;Turning+Ideas+Into+Scalable+Products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Paul+Herv%C3%A9+%F0%9F%91%8B;Full-Stack+Developer;Software+Engineer+%40+The+ICT+University;Turning+Ideas+Into+Scalable+Products" alt="Typing SVG" />
 
 <br/>
 
