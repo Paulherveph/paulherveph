@@ -100,20 +100,12 @@ It replaces a manual, error-prone system — one made more complex by a bicamera
 ![GitHub Stats](https://img.shields.io/badge/-GITHUB_STATS-D4AF37?style=for-the-badge&labelColor=000000)
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=paulherveph&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=D4AF37&text_color=FFFFFF" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulherveph&layout=compact&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=FFFFFF" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=paulherveph&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=paulherveph&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=paulherveph&hide_border=true&background=0D1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" width="60%"/>
-</p>
-
-<br/>
-
-![GitHub Trophies](https://img.shields.io/badge/-GITHUB_TROPHIES-D4AF37?style=for-the-badge&labelColor=000000)
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=paulherveph&theme=onedark&no-frame=true&row=2&column=4&margin-w=8&margin-h=8&title_color=D4AF37&rank_color=D4AF37&icon_color=D4AF37"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=paulherveph&theme=tokyonight&hide_border=true" width="60%"/>
 </p>
 
 <br/>
@@ -135,7 +127,7 @@ It replaces a manual, error-prone system — one made more complex by a bicamera
 <a href="https://www.linkedin.com/in/paul-herv%C3%A9-tatieze" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-D4AF37?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
 <a href="https://x.com/your-x-handle" target="_blank"><img src="https://img.shields.io/badge/X-D4AF37?style=for-the-badge&logo=x&logoColor=black"/></a>
 <a href="https://www.instagram.com/paulherveph?igsh=NXUzazB3MzR1anBp" target="_blank"><img src="https://img.shields.io/badge/Instagram-D4AF37?style=for-the-badge&logo=instagram&logoColor=black"/></a>
-<a href="https://www.youtube.com/@paulherveph" target="_blank"><img src="https://img.shields.io/badge/YouTube-D4AF37?style=for-the-badge&logo=youtube&logoColor=black"/></a>
+<a href="https://www.youtube.com/channel/UCBjG7a73qitU1WNWM-fy8yw" target="_blank"><img src="https://img.shields.io/badge/YouTube-D4AF37?style=for-the-badge&logo=youtube&logoColor=black"/></a>
 </p>
 
 
