@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="banner.png" alt="Paul Hervé — Full-Stack Developer" width="100%"/>
+<img src="banner.png" alt="Paul Hervé — Full-Stack Web Developer" width="100%"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Paul+Herv%C3%A9+%F0%9F%91%8B;Full-Stack+Developer;Software+Engineer+%40+The+ICT+University;Turning+Ideas+Into+Scalable+Products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Paul+Herv%C3%A9+%F0%9F%91%8B;Full-Stack+Web+Developer;Software+Engineer+%40+The+ICT+University;Turning+Ideas+Into+Scalable+Products" alt="Typing SVG" />
 
 <br/>
 
@@ -17,7 +17,7 @@
 
 ![About Me](https://img.shields.io/badge/-ABOUT_ME-D4AF37?style=for-the-badge&labelColor=000000)
 
-Hello World! I'm **Paul Hervé** — a Full-Stack Developer who enjoys turning real problems into clean, working software.
+Hello World! I'm **Paul Hervé** — a Full-Stack Web Developer who enjoys turning real problems into clean, working software.
 
 - 🎓 **Bachelor's Degree in Software Engineering** — The ICT University *(2025)*
 - 💻 Building web applications since **2022**
