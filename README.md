@@ -17,7 +17,7 @@
 
 ![About Me](https://img.shields.io/badge/-ABOUT_ME-D4AF37?style=for-the-badge&labelColor=000000)
 
-Hello World! I'm **Paul Hervé** — a Full-Stack Web Developer who enjoys turning real problems into clean, working software.
+Hello World! I'm **Paul Hervé Tatieze** — a Full-Stack Web Developer who enjoys turning real problems into clean, working software.
 
 - 🎓 **Bachelor's Degree in Software Engineering** — The ICT University *(2025)*
 - 💻 Building web applications since **2022**
