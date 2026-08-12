@@ -8,8 +8,24 @@
 
 <br/>
 
+![Available for Hire](https://img.shields.io/badge/Available_for_Hire-D4AF37?style=for-the-badge&logo=Handshake&logoColor=black)
+![Remote + Relocation](https://img.shields.io/badge/Remote_%2B_Relocation-D4AF37?style=for-the-badge&logo=Googlemaps&logoColor=black)
+![English & French](https://img.shields.io/badge/English_%26_French-D4AF37?style=for-the-badge&logo=Googletranslate&logoColor=black)
+
+<br/>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=paulherveph&color=D4AF37&style=for-the-badge&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/paulherveph?style=for-the-badge&color=D4AF37&labelColor=000000)
+
+<br/><br/>
+
+<p align="center">
+<a href="https://paulherveph.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-D4AF37?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0MCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDAwMDAwIiBzdHJva2Utd2lkdGg9IjciLz48dGV4dCB4PSI1MCIgeT0iNjMiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLCAnVGltZXMgTmV3IFJvbWFuJywgc2VyaWYiIGZvbnQtc2l6ZT0iMzYiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjMDAwMDAwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5QSDwvdGV4dD48L3N2Zz4K"/></a>
+<a href="https://www.linkedin.com/in/paul-herv%C3%A9-tatieze" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-D4AF37?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
+<a href="https://x.com/your-x-handle" target="_blank"><img src="https://img.shields.io/badge/X-D4AF37?style=for-the-badge&logo=x&logoColor=black"/></a>
+<a href="https://www.instagram.com/paulherveph?igsh=NXUzazB3MzR1anBp" target="_blank"><img src="https://img.shields.io/badge/Instagram-D4AF37?style=for-the-badge&logo=instagram&logoColor=black"/></a>
+<a href="https://www.youtube.com/channel/UCBjG7a73qitU1WNWM-fy8yw" target="_blank"><img src="https://img.shields.io/badge/YouTube-D4AF37?style=for-the-badge&logo=youtube&logoColor=black"/></a>
+</p>
 
 </div>
 
@@ -111,6 +127,12 @@ It replaces a manual, error-prone system — one made more complex by a bicamera
 <br/>
 
 <p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=paulherveph&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph&line=D4AF37&point=D4AF37&area_color=D4AF37" width="95%"/>
+</p>
+
+<br/>
+
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulherveph/paulherveph/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulherveph/paulherveph/output/github-snake.svg"/>
@@ -130,6 +152,6 @@ It replaces a manual, error-prone system — one made more complex by a bicamera
 <a href="https://www.youtube.com/channel/UCBjG7a73qitU1WNWM-fy8yw" target="_blank"><img src="https://img.shields.io/badge/YouTube-D4AF37?style=for-the-badge&logo=youtube&logoColor=black"/></a>
 </p>
 
-
-
 <p align="center"><i>Thanks for stopping by — let's build something great together.</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D4AF37&height=100&section=footer" width="100%"/>
